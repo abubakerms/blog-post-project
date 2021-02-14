@@ -1,0 +1,60 @@
+.label {
+    font-family: fell, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: inherit;
+    color: black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.search {
+    width: 50%;
+    height: 30px;
+    background-color: rgb(158, 201, 158);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+.title {
+    letter-spacing: -0.011em;
+    line-height: 60px;
+    margin-top: 0.55em;
+    font-size: 40px;
+    font-family: fell, Georgia, Cambria, "Times New Roman", Times, serif;
+    box-sizing: inherit;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    word-wrap: break-word;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+.postTitle {
+    letter-spacing: -0.011em;
+    /* line-height: 60px; */
+    margin-top: 0.55em;
+    font-size: 20px;
+    font-family: fell, Georgia, Cambria, "Times New Roman", Times, serif;
+    box-sizing: inherit;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    word-wrap: break-word;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+.button {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+::placeholder {
+
+    color: black
+}
